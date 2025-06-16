@@ -3,8 +3,8 @@
 
 New text
 
+Now edit here
+
 Branch created in GitHub
 
 Edit, now saved
-
-Edit in github to check whether it's not ignored?
