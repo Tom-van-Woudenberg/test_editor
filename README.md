@@ -23,8 +23,7 @@ html:
       baseurl : "https://<your_username>.github.io/<your_repository_name>/"
 ...
 html_theme_options:
-      logo:
-...
+      ...
       repository_url: "https://github.com/_<your_username>_/_<your_repository_name>_"
 ```
 
