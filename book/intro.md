@@ -1,6 +1,3 @@
-+++
-# Heading 1
+# New title
 
-Click {fa}`pen-to-square` - {fa}`pen` `Edit page` to start editing your book in the WYSIWYG editor
-
-+++
+New text
